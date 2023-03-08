@@ -1,4 +1,2 @@
-<img src="SD_orange.png" width=200>
-
-# SD Software-Design GmbH
-Find out more on https://software-design.de 
+# About this repository
+This repository is *special* and contains some files only meant to be displayed within the GitHub webinterface.
