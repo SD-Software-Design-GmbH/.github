@@ -1,7 +1,6 @@
 <img src="/profile/SD_orange.png" width=200>
 
 # SD Software-Design GmbH
-We are a software development company base in Freiburg, Germany.
+Auf GitHub findet ihr alle unsere Code- und Kundenprojekte sowie unser Mitarbeiterhandbuch.
 
-You can find out more on our website:
-https://software-design.de 
+#[Mitarbeiterhandbuch](https://github.com/SD-Software-Design-GmbH/Mitarbeiter-Handbuch)
